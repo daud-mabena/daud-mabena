@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter and Javascript. </p>
+<p align='center'>I am a Software Engineer focused on Yii2, Education Application, Flutter and Javascript. </p>
 
 <p align='center'>
 <a href="https://wa.me/255713773233?text=Hello Daud">
